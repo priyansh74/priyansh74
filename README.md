@@ -3,7 +3,7 @@
 ![Profile views](https://gpvc.arturio.dev/priyansh74)  
 
 I'm Priyansh, I am a pre-final year electronics and communication engineering student currently learning and working with Front-end Technologies. I am interested as well as have a passion for Software Development and love Problem Solving. I describe myself as a passionate developer who loves coding and the web platform ❤️.
-I also do write some technical content on Data Structure and algorithm, some of them are published on online learning websites like GeeksForGeeks, CodesDope Ltd. 
+I also do write some technical content on Data Structure and algorithm, some of them are published on online learning websites like GeeksForGeeks, CodesDope Ltd. You can find the links attached below. 
 
 
 
@@ -11,6 +11,8 @@ Skills: C / C++ /  JS / HTML / CSS / Sass /  SQL
 
 - 🌱 I’m currently learning Node.js, EJS 
 - 👯 I’m looking to collaborate on Web Development Projects 
+- [:page_facing_up:](https://www.codesdope.com/blog/author/75471/?author=75471)
+- [:page_facing_up:](https://auth.geeksforgeeks.org/user/priyanshjha99/articles)
 
 
 
