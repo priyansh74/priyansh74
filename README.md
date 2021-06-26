@@ -6,10 +6,11 @@ I'm Priyansh, I am a pre-final year electronics and communication engineering st
 
 Skills: C / C++ /  JS / HTML / CSS / Sass /  SQL 
 
-- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning Node.js, EJS 
+- 👯 I’m looking to collaborate on Web Development Projects 
 
 
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/priyansh74)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/priyansh-jha-b25820178//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/priyansh.jha.355/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/priyaannsh//)  
 
 
 
