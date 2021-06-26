@@ -13,9 +13,6 @@ Skills: C / C++ /  JS / HTML / CSS / Sass /  SQL
 - 👯 I’m looking to collaborate on Web Development Projects 
 - [:page_facing_up: CodesDope Articles](https://www.codesdope.com/blog/author/75471/?author=75471)
 - [:page_facing_up: GeeksForGeeks Articles](https://auth.geeksforgeeks.org/user/priyanshjha99/articles)
-- [https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/priyansh-jha-b25820178/)
-- [https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](priyanshjha99@gmail.com)
-- [https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white]()
 
 
 
