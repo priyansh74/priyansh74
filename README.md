@@ -10,7 +10,7 @@ Skills: C / C++ /  JS / HTML / CSS / Sass /  SQL
 
 - 🌱 I’m currently learning Node.js, EJS 
 - 👯 I’m looking to collaborate on Web Development Projects 
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyansh74)](https://github.com/anuraghazra/github-readme-stats)
+-
 
 
 
