@@ -2,7 +2,7 @@
 ### Hi there 👋, I'm Priyansh Jha
 ![Profile views](https://gpvc.arturio.dev/priyansh74)  
 
-I'm Priyansh, I am a pre-final year electronics and communication engineering student currently learning and working with Front-end Technologies. I am interested as well as have a passion for Software Development and love Problem Solving. I describe myself as a passionate developer who loves coding and the web platform ❤️.
+I'm Priyansh, I am a final year electronics and communication engineering student currently learning and working with Front-end Technologies. I am interested as well as have a passion for Software Development and love Problem Solving. I describe myself as a passionate developer who loves coding and the web platform ❤️.
 I also do write some technical content on Data Structure and algorithm, some of them are published on online learning websites like GeeksForGeeks, CodesDope Ltd. You can find the links attached below. 
 
 
