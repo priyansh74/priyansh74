@@ -7,9 +7,8 @@ I also do write some technical content on Data Structure and algorithm, some of 
 
 
 
-Skills: C / C++ /  JS / HTML / CSS / Sass /  SQL 
+Skills: C / C++ /  JS / HTML / CSS / Sass /  SQL / C# / ASP.NET/ EJS / MongoDB  
 
-- 🌱 I’m currently learning Node.js, EJS 
 - 👯 I’m looking to collaborate on Web Development Projects 
 - [:page_facing_up: CodesDope Articles](https://www.codesdope.com/blog/author/75471/?author=75471)
 - [:page_facing_up: GeeksForGeeks Articles](https://auth.geeksforgeeks.org/user/priyanshjha99/articles)
